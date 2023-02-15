@@ -1,0 +1,8 @@
+google-api-python-client
+openai 
+ftfy #what does ftfy mean
+ffmpeg #audio library 
+pillow #audio library 
+recipe-scrapers
+git+https://github.com/openai/whisper.git
+jupyter

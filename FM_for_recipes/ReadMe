@@ -1,3 +1,11 @@
 FM for Recipies
 
 Overview: This project elements is based on the paper Socratic Models and is attempting to implement a recipie helper using GPT-3, CLIP, RoBERTa, Whisper, and potentially other models
+
+Getting Started
+
+- This project uses conda to manage virtual environments
+- Conda
+conda create -n <new_env_name> python=3.9
+conda activate <new_env_name>
+pip install -r requirements.txt

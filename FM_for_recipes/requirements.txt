@@ -17,4 +17,7 @@ ecapture
 twilio
 pyjokes
 beautifulsoup4
-
+pyttsx3
+winshell
+feedparser
+clint
